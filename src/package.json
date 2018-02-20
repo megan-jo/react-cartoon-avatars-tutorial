@@ -1,0 +1,14 @@
+{
+  "name": "Cartoon Avatars",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/n5r95ovo0j",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.0.0",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "reactstrap": "4.8.0"
+  }
+}
